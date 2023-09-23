@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "image": "https://i.ibb.co/4fWkGss/s21.jpg",
+        "phone_name": "Galaxy S21",
+        "brand_name": "Samsung",
+        "price": 19.99,
+        "rating": 5
+    },
+    {
+        "id": "2",
+        "image": "https://i.ibb.co/MZSDgxN/i13.jpg",
+        "phone_name": "iPhone 13",
+        "brand_name": "Apple",
+        "price": 29.99,
+        "rating": 5
+    },
+    {
+        "id": "3",
+        "image": "https://i.ibb.co/WWmWFHJ/p6.jpg",
+        "phone_name": "Pixel 6",
+        "brand_name": "Google",
+        "price": 14.99,
+        "rating": 4.5
+    },
+    {
+        "id": "4",
+        "image": "https://i.ibb.co/yPSqNdH/op9.jpg",
+        "phone_name": "OnePlus 9",
+        "brand_name": "OnePlus",
+        "price": 39.99,
+        "rating": 5
+    },
+    {
+        "id": "5",
+        "image": "https://i.ibb.co/mz6FPXw/s1.jpg",
+        "phone_name": "Xperia 1 III",
+        "brand_name": "Sony",
+        "price": 24.99,
+        "rating": 2.5
+    },
+    {
+        "id": "6",
+        "image": "https://i.ibb.co/wzgN8Nh/mi11.jpg",
+        "phone_name": "Mi 11",
+        "brand_name": "Xiaomi",
+        "price": 17.99,
+        "rating": 4
+    },
+    {
+        "id": "7",
+        "image": "https://i.ibb.co/q739srk/H40.jpg",
+        "phone_name": "Mate 40 Pro",
+        "brand_name": "Huawei",
+        "price": 49.99,
+        "rating": 4.5
+    },
+    {
+        "id": "8",
+        "image": "https://i.ibb.co/rm7v2bM/az.jpg",
+        "phone_name": "Zenfone 8",
+        "brand_name": "Asus",
+        "price": 34.99,
+        "rating": 3.5
+    },
+    {
+        "id": "9",
+        "image": "https://i.ibb.co/2ZHJkMW/ml950.jpg",
+        "phone_name": "Lumia 950",
+        "brand_name": "Microsoft",
+        "price": 12.99,
+        "rating": 4.5
+    },
+    {
+        "id": "10",
+        "image": "https://i.ibb.co/N33Ph1B/miN10.jpg",
+        "phone_name": "Redmi Note 10",
+        "brand_name": "Xiaomi",
+        "price": 54.99,
+        "rating": 4
+    },
+    {
+        "id": "11",
+        "image": "https://i.ibb.co/z2X41hd/a52.jpg",
+        "phone_name": "Galaxy A52",
+        "brand_name": "Samsung",
+        "price": 27.99,
+        "rating": 3.5
+    },
+    {
+        "id": "12",
+        "image": "https://i.ibb.co/TkPgd6c/ise.jpg",
+        "phone_name": "iPhone SE",
+        "brand_name": "Apple",
+        "price": 19.99,
+        "rating": 5
+    }
+]
